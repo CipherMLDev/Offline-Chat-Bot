@@ -1,0 +1,3 @@
+streamlit # type: ignore
+langchain_community # type: ignore
+asyncio # type: ignore
