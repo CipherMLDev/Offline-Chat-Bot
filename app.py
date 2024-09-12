@@ -48,7 +48,7 @@ async def simulate_typing(message_placeholder, full_response):
 
 # Main function to run the chatbot
 def run_chatbot():
-    st.title("Optimized AI Chatbot")
+    st.title("Offline Chatbot")
 
     chain = get_chain()
 
